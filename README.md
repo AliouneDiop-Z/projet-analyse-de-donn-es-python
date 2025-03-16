@@ -1,4 +1,4 @@
-ContexteContexte
+Contexte
 Dans le cadre de mon apprentissage et de mon perfectionnement en analyse de données,
 j'ai sollicité cette entreprise afin de réaliser un compte rendu de leurs performances commerciales.
 Cette démarche a été effectuée sans aucune compensation monétaire , dans un esprit d'exercice et d'amélioration continue de mes compétences en analyse de données.
